@@ -1,0 +1,13 @@
+Feature Extraction using LangExtract:
+
+Visualization top notch coz it respects the ground truth and stays close it,
+Context Length should be checked neverthless
+
+Preprocessing seems to be sailing opposite to the wind. just find the docs Shivaaaa!
+
+Verdict : Abstracted Prompt Engineering pipeline...... 
+Reason: Deepseek prompted extraction pipeline resulted  something similar in json
+Not ignoring the fact that it is way too good. 
+Can be used in Report analysis (Especially Research paper Explaination) Trin
+
+Final thoughts: <Promise> (to be resolved after yo estudio)
